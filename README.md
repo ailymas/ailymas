@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ailymas&label=Profile%20views&color=0e75b6&style=flat" alt="ailymas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/babaslyes2" target="blank"><img src="https://img.shields.io/twitter/follow/babaslyes2?logo=twitter&style=for-the-badge" alt="babaslyes2" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/lyes-babas-" target="blank"><img src="https://img.shields.io/linkedin/follow/babaslyes?logo=linkedln&style=for-the-badge" alt="babaslyes" /></a> </p>
 
 - 🔭 I’m currently working on **E-commerce web app**
 
