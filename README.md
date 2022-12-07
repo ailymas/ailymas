@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **E-commerce web app**
+- 🔭 I’m currently working at ** Expedia-chrono Entreprise**
 
-- 📝 I regularly write articles on [https://medium.com/@ailymas2967](https://medium.com/@ailymas2967)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
