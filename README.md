@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working at ** Expedia-chrono Entreprise**
+- 🔭 I’m currently working at ** New_Digital_Way Entreprise**
 
 
 
